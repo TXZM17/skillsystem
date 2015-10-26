@@ -1,4 +1,4 @@
-package com.txzm.skill;
+package com.txzm.effect;
 
 import java.util.List;
 
